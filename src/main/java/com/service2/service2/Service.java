@@ -2,7 +2,7 @@ package com.service2.service2;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.reactive.function.client.WebClient;
+
 @RestController
 @org.springframework.stereotype.Service
 @RequiredArgsConstructor
